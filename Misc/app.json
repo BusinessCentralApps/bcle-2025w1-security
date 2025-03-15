@@ -1,0 +1,29 @@
+{
+  "id": "ebdde376-5b04-48c2-aba3-fa1811acaefa",
+  "name": "Misc",
+  "publisher": "Freddy",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.4.0.0",
+  "runtime": "14.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 63000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
