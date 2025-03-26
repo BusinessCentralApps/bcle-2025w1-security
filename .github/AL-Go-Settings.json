@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
-  "templateSha": "6e5bf7752c8288a922c50393814925d794e9ec38",
+  "templateSha": "ad07b06447015a674e4d73a57f06520e3a857c14",
   "conditionalSettings": [
     {
       "workflows": [
